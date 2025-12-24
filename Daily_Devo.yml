@@ -1,7 +1,5 @@
 Common:
   Prayer: &prayer |
-      <I>Take a moment to pause and pray to God:</I>
-      
       1. Holy Spirit Come 
       <I>Become aware of the presence of the Spirit in your life</I>
       
@@ -14,8 +12,6 @@ Common:
       4. Please
       <I> Ask God for what you or another needs - be specific</I>
   Lords Prayer: &lp |
-    <I>In closing, pray the very words that Jesus taught us to pray:</I>
-    
     Our Father in heaven,
     hallowed be your name;
     your kingdom come;
