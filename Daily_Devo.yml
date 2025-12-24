@@ -1,10 +1,18 @@
 Common:
   Prayer: &prayer |
-      <I>Take a moment to pause and pray to God. Talk with him about 3 simple things: Thank you, Sorry, Please:</I>
+      <I>Take a moment to pause and pray to God:</I>
       
-      1. Thank You <I>- for who He is and what He has done</I>
-      2. Sorry <I>- for where you have fallen short and sinned</I>
-      3. Please <I>- for what you or another needs from God</I>
+      1. Holy Spirit Come 
+      <I>Become aware of the presence of the Spirit in your life</I>
+      
+      2. Thank You
+      <I>Thank God for who He is and what He has done</I>
+      
+      3. Sorry
+      <I>Confess to God where you have fallen short and or missed the mark</I>
+      
+      4. Please
+      <I> Ask God for what you or another needs - be specific</I>
   Lords Prayer: &lp |
     <I>In closing, pray the very words that Jesus taught us to pray:</I>
     
