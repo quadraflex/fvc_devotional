@@ -1,10 +1,13 @@
 Common:
   Prayer: &prayer |
-      1. Thank You (for who God is and what He has done)
-      2. Sorry (for where I have fallen short and sinned)
-      3. Please (for what I or another need from God today)
+      <I>Take a moment to pause and pray to God. Tell him 3 simple things: Thank you, Sorry, Please.</I>
+      
+      1. Thank You <I>(for who He is and what He has done)</I>
+      2. Sorry <I>(for where you have fallen short and sinned)<?I>
+      3. Please <I>(for what you or another needs from God)</I>
   Lords Prayer: &lp |
     <I>In closing, pray the words that Jesus taught us to pray:</I>
+    
     Our Father in heaven,
     hallowed be your name;
     your kingdom come;
